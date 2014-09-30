@@ -1,10 +1,12 @@
 <?php
 /**
- * S3 にアクセスするライブラリ.
+ * AWS SDK for PHP を用いてS3 にアクセスするライブラリのサンプル.
+ * AWS SDK for PHP 2.6.16を基準に作成
  *
  * @author Suzuki Koichi <sk8-mr51@bellks.com>
  * @copyright Copyright (c) 2014 Suzuki Koichi
- * @license see LICENSE
+ * @link https://github.com/mr51/aws_s3_sample
+ * @license This software is released under the MIT License, see LICENSE
  **/
 class Service_Aws_S3
 {
